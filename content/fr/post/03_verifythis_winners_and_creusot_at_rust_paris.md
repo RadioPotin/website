@@ -7,9 +7,10 @@ tags: ["event", "creusot", "rustparis"]
 title: "Le LMF, lauréat de VerifyThis 2026, présentera Creusot à Rust Paris"
 ---
 
-Le LMF participera prochainement à un **meetup Rust Paris** le 9 juin 2026 avec une
-présentation consacrée à **Creusot**, son outil de vérification formelle de
-programmes Rust.
+Le LMF participera prochainement **[Rust Paris
+2026](https://event.systematic-paris-region.org/rustparis/)** le 9 juin 2026
+avec une présentation consacrée à **Creusot**, son outil de vérification
+formelle de programmes Rust.
 
 Lors de cette présentation, **Li-yao Xia** (ingénieur R&D) et **Jacques-Henri Jourdan**
 (chargé de recherche) expliqueront comment **Creusot** permet de prouver l’absence
